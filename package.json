@@ -11,7 +11,7 @@
     "weatherbuildtar": "ng build weather",
     "weatherbuildnpm": "ng build weather && cd dist/weather && npm publish --access=public"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~8.2.9",
     "@angular/common": "~8.2.9",
