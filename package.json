@@ -52,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wgiles011"
+    "url": "git://github.com/wgiles011/weatherwidget"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@wgiles011"
