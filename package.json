@@ -53,5 +53,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/wgiles011"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@wgiles011"
   }
 }
