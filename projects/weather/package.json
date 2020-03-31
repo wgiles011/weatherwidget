@@ -1,5 +1,5 @@
 {
-  "name": "@wgiles011/weather",
+  "name": "@wgiles001/weather",
   "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
